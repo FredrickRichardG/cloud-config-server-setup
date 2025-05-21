@@ -1,2 +1,4 @@
 server:
   port: 8088
+greetings:
+  message: "Glad you to be part of Blood Donor - dev!! :)"
