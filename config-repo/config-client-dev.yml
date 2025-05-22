@@ -2,3 +2,6 @@ server:
   port: 8088
 greetings:
   message: "Glad you to be part of Blood Donor - dev!! :)"
+spring:
+  datasource:
+    url: "jdbc:mysql://localhost:3306/blooddonordb"
